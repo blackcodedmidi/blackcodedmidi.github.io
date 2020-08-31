@@ -30,7 +30,7 @@ twitter_username: blackcodedmidi
 github_username:  blackcodedmidi
 
 # Build settings
-theme: jekyll-theme-console
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 

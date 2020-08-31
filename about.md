@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
 Inspired in artistic movements related to tool hacking, social media and
