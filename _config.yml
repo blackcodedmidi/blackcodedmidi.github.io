@@ -18,21 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BlackCodeMIDI
-email: munshkr+blackcodemidi@gmail.com
+title: BlackCodedMIDI
+email: munshkr+blackcodedmidi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://blackcodedmidi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: blackcodedmidi
+github_username:  blackcodedmidi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
+
+header_pages:
+  - index.md
+  - about.md
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: false # false (default) or true
+footer: 'follow us on <a href="https://twitter.com/blackcodedmidi">twitter</a>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
