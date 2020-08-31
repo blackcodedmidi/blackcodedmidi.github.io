@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Proposal"
+date:   2020-08-30 23:55:55 -0300
+---
+
+By creating tools for specific purposes, the human being set in motion a
+process of environmental and self change that reaches the present, embedding
+the globe, our bodies and psyches with technology. Culture embraces
+innovations, art redefines them.
+
+```
+#hack #demoscene #glitch #datamosh #click&cuts #glitchhop #vaporwave #synthwave
+#meme #socialmedia #mass #softwarelibre
+```
+
+There has been several artistic movements/phenomena in the recent past that
+approached art from a hacking perspective by pushing production tools'
+boundaries, such as the demoscene in the 90s (caracterized by crackers who
+looked for hardware and software limitations of computers and videogame
+consoles to create optimized programs for musical and visual composition, and
+later, work with error as aesthetic resource). But with a socialized internet
+and established platforms for social interaction and content creation a new
+wave of artists appeared in the 2000s, using online and free software tools to
+manipulate and hack digital material such as glitch art (with digital image
+techniques as data bending and data moshing, or digital music genres as
+click&cuts or glitch hop). Other examples of cultural impact of this massive
+access to production tools can be genres such as vaporwave and synthwave, or
+even communication expanders like memes.
+
+```
+#blackmidi 
+```
+
+Among other new cultural manifestations, we are especially interested in Black
+MIDI. Arised in social media, this artistic practice was born in 2009 when
+Shirasagi Yukki uploaded to Nico Nico Douga (a japanese video-sharing service
+similar to YouTube) a video of a reinterpreted version of a popular videogame
+song, composed with a high number of MIDI notes (piece intended to be executed
+by devices, not piano/keyboard human players). Also known as blackened musical
+notation due to the black note head stains in a score (if translating MIDI to
+pentagram), this practice articulates both visual and sound aspect. The MIDI
+notes flow down the screen and activates the notes of an horizontal piano roll,
+located at the bottom, producing moving visual patterns. By virtue of this
+activation, sound is perceived, sometimes as rhythm, melody and harmony and
+sometimes as a dense, homogenic timbre, due to clusters created by note
+duplication and addition processes. Both visual and sound aspects were
+thoroughly explored by the increasing number of people who started producing
+and uploading their own Black MIDI videos and organizing virtual challenges. 
+
+```
+#diversity #development
+```
+
+As creative code enthusiasts we want to appropriate Black MIDI aesthetic
+resource with a strong ludic and experimental approach to update and expand it
+by hybridizing it with several technologies via different programming languages
+and tools. We want to explore the image and sound relationship, focusing on
+each one. 
+
+```
+#stroboscopicanimation #phenakistiscope #bioscope #python #mido #pygame #omnimidi
+```
+
+We developed a script in Python that allows automatic image to MIDI conversion,
+enabling us to use any video source as input to get MIDI sequences in a score,
+which will work as frames in a tape, by reproducing it with Mido and Pygame
+(Python libraries to read/send MIDI data and to create a visual interface,
+respectively). Our device output reminds of antique stroboscopic animations.
+
+```
+#livecoding #hydra #javascript #shaders #glsl #bytebeat
+```
+
+We would like to explore short animation narratives in this upcycled device,
+and also explore visual and sound rhythm by working with digital video
+synthesizers such as Hydra, a live coding language made in JavaScript, shader
+languages as GLSL, or by writing "bytebeat formulas" and converting them to
+MIDI to visualize sound waveforms. 
+
+In this preliminary stage we also realized that some animation MIDI patterns
+produces a sound which, when observed in any DAW (Digital Audio Workspace)
+shows beautiful sound waves. We might want to use those for further visual
+pieces. 
+
+```
+#pianola #speakingpiano #patterns #tidalcycles #conlonnancarrow #bytebeat #flok
+```
+
+But we would also like to explore the image/sound relationship by focusing on
+different sound-oriented strategies. Just as Conlon Nancarrow in the late
+1940's experimented with musical composition through fractal patterns applied
+to sound duration and pitch in his player piano studies, we would like to
+explore high density MIDI patterns generated with TidalCycles, a language made
+with Haskell for live coding rhythmic sequences and sound processes. Besides,
+we would like to work with semantic language by adapting the speaking piano
+technique, by which a spectrogram of spoken word activates frequencies areas in
+a piano. 
+
+Finally, we would like to adapt an online collaborative script editor we
+developed named Flok (made with JavaScript) for remote live coding jams with
+the aim of building an online collaborative tool to live code a Black Coded
+MIDI device that helps building new non-utilitary human bonds. 
