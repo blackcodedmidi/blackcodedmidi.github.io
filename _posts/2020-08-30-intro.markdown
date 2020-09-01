@@ -56,7 +56,12 @@ As creative code enthusiasts we want to appropriate Black MIDI aesthetic
 resource with a strong ludic and experimental approach to update and expand it
 by hybridizing it with several technologies via different programming languages
 and tools. We want to explore the image and sound relationship, focusing on
-each one. 
+each one. <br></br>
+We developed a script in Python that allows automatic image to MIDI conversion,
+enabling us to use any video source as input to get MIDI sequences in a score,
+which will work as frames in a tape, by reproducing it with Mido and Pygame
+(Python libraries to read/send MIDI data and to create a visual interface,
+respectively). Our device output reminds of antique stroboscopic animations.
 
 ```
 #stroboscopicanimation #phenakistiscope #bioscope #python #mido #pygame #omnimidi
