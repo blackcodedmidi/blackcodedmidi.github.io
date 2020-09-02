@@ -4,7 +4,7 @@ title: About
 ---
 
 Inspired in artistic movements related to tool hacking, social media and
-massive access to image and sound production softwares, **BlackCodedMIDI**
+massive access to image and sound production software, **BlackCodedMIDI**
 proposes an exploration of the relationship between image and sound by
 expanding _Black MIDI_ genre with scripts in different programming languages. 
 
