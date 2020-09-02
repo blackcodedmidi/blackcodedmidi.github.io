@@ -5,7 +5,7 @@ layout: default
 # CURRENT EXPERIMENTS
 
 
-We are developing a bunch of custom tools for the generation, transformation and reproduction of MIDI files.
+We are developing a bunch of custom tools for the generation, transformation, reproduction and visualization of dense MIDI files.
 
 The development of this new software parallel to our own investigations, has lead us to some new findings in the Black Midi movement!
 
@@ -19,7 +19,7 @@ We found that accelerating the BPMs to an impossible speed for a physical device
 
 In the reverse processes, old movies now can be use as a source for a  musical performance.
 
-Also, we are currently experimenting with the simulation of the human voice through massive clusters of piano notes. This will permit us to have animation, music, AND voice acting. All begin generated from an extreme use of a single MIDI file!
+Also, we are currently experimenting with the simulation of the human voice through massive clusters of piano notes. This will permit us to have animation, music, AND voice acting. All being generated from an extreme use of a single MIDI file!
 
 
 <video width="800" height="600" controls>
@@ -28,8 +28,8 @@ Also, we are currently experimenting with the simulation of the human voice thro
 </video>
 
 
-We are creating a concise language that dictates the generation of new MIDI data. Mathematical generators for note's duration, timbre and velocity, translators from other formats, and sequencers for the misuse of our own midi players.
-We expect to expand this to a collaborative playground, combining it with other livecoded languages, as we already made with [Flok](https://github.com/munshkr/flok) 
+We are creating a concise language that dictates the generation of new MIDI data. Mathematical generators for note's duration, timbre and velocity, translators from other formats and media, and sequencers for the misuse of our own midi players.
+We expect to expand all this into a collaborative playground, combining it with other livecoded languages, as we already made with [Flok](https://github.com/munshkr/flok) 
 
 For now, from only a tiny formula, the results can be quite surprising both visual and musically:
 

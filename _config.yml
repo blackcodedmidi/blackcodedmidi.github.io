@@ -21,8 +21,7 @@
 title: BlackCodedMIDI
 email: munshkr+blackcodedmidi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Exploring the relationship between image and sound by
-  expanding Black MIDI genre through collaborative coding 
+  Experiments fusing Black MIDI and the live coding practice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blackcodedmidi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blackcodedmidi
