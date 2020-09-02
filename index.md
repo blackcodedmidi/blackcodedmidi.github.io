@@ -5,11 +5,11 @@ layout: default
 # 🧪 CURRENT EXPERIMENTS 
 
 
-We are developing a bunch of custom tools for the generation, transformation, reproduction and visualization of dense MIDI files.
+We are developing custom tools for the generation, transformation, reproduction and visualization of dense MIDI files.
 
-The development of this new software parallel to our own investigations, has lead us to some new findings in the Black Midi movement!
+The development of this new software parallel to our own investigations, has lead us to some new techniques in the Black Midi movement!
 
-We found that accelerating the BPMs to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of the notes generate a grey-scale palette in an otherwise black-and-white language:
+We found that accelerating the tempo to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of notes generate a grey-scale palette in an otherwise black-and-white language:
 
 <video width="100%" controls>
   <source src="videos/chihuahua.mp4" type="video/mp4">
@@ -17,7 +17,7 @@ We found that accelerating the BPMs to an impossible speed for a physical device
 </video>
 
 
-In the reverse processes, old movies now can be use as a source for a  musical performance.
+In the inverse process, old movie footage now can be use as source for musical performance.
 
 Also, we are currently experimenting with the simulation of the human voice through massive clusters of piano notes. This will permit us to have animation, music, AND voice acting. All being generated from an extreme use of a single MIDI file!
 
@@ -28,10 +28,10 @@ Also, we are currently experimenting with the simulation of the human voice thro
 </video>
 
 
-We are creating a concise language that dictates the generation of new MIDI data. Mathematical generators for note's duration, timbre and velocity, translators from other formats and media, and sequencers for the misuse of our own midi players.
+But mainly we are creating a concise language that dictates the generation of new MIDI data. Mathematical generators for note's duration, instrument and velocity, translators from other formats and media, and sequencers for the misuse of our own midi players.
 We expect to expand all this into a collaborative playground, combining it with other livecoded languages, as we already made with [Flok](https://github.com/munshkr/flok) 
 
-For now, from only a tiny formula, the results can be quite surprising both visual and musically:
+For now, with only a tiny formula, the results can be quite surprising both visual and musically:
 
 
 <video width="100%" controls>
@@ -49,7 +49,7 @@ For now, from only a tiny formula, the results can be quite surprising both visu
   <source src="videos/formula-dance.webm" type="video/webm">
 </video>
 
-In this preliminary stage we also realized that some animation MIDI patterns,
+In this preliminary stage we also realized that some procedurally generated MIDI patterns,
 when observed as a whole, show up as beautiful sound waves. We might want to use those for further visual
 pieces.
 
