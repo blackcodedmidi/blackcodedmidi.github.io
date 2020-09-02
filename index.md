@@ -2,16 +2,18 @@
 layout: default
 
 ---
+
 ---
 <h1><a href="https://github.com/blackcodedmidi/blackcodedmidi"><img src="../images/github-icon.png"></a> BlackCodedMIDI</h1>
 
 ### Experiments fusing Black MIDI and the live coding practice.
+##### + tools for the generation, transformation, reproduction and visualization of dense MIDI files.
 
 ---
-
+<p class="a-bit-of-air"></p>
 <!-- this was cute, but now creates too much noise at the top -->
-<!-- ## 🧪 CURRENT EXPERIMENTS  -->
-Developing custom tools for the generation, transformation, reproduction and visualization of dense MIDI files. The development of this new software parallel to our own investigations, has lead us to some new techniques in the Black Midi movement!
+## 🧪 MIDI LAB 
+ <!-- The development of this new software parallel to our own investigations, has lead us to some new techniques in the Black Midi movement! -->
 
 We found that accelerating the tempo to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of notes generate a grey-scale palette in an otherwise black-and-white language:
 
@@ -53,15 +55,19 @@ For now, with only a tiny formula, the results can be quite surprising both visu
   <source src="videos/formula-dance.webm" type="video/webm">
 </video>
 
+<p class="a-bit-of-air">
 In this preliminary stage we also realized that some procedurally generated MIDI patterns,
 when observed as a whole, show up as beautiful sound waves. We might want to use those for further visual
 pieces.
+</p>
 
 ![chihuahua graph](/images/graph-chihuahua.png)
 
 ![galaxian graph](/images/graph-galaxian.png)
 
 --------------------
+
+<p class="a-bit-of-air"></p>
 ## 🌐 HISTORICAL BACKGROUND
 
 There has been several artistic movements/phenomena in the recent past that
@@ -98,6 +104,8 @@ and tools. We want to explore the image and sound relationship, focusing on
 each one.
 
 -----------------------
+
+<p class="a-bit-of-air"></p>
 ## 💚 OUR INSPIRATIONS
 
 - Conlon Nancarrow

@@ -28,12 +28,17 @@ body {
   font-family: Consolas, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+.a-bit-of-air {
+  margin: 30px 0 30px 0;
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+  background-color: #171819cf;
 }
 
 section {
@@ -201,11 +206,12 @@ td {
 
 /*this is the dashed line used as separator*/
 hr {
-  height: 0;
+  height: 24px;
   border: 0;
-  /*some fucker is overriding this color D:< */
-  border-bottom: 8px dashed #303436 !important;
-  border-color: #303436 !important;
+  /*border-bottom: 8px dashed $body-background;*/
+  /*border-color: $body-background;*/
+  /*margin: 18px 0 18px 0;*/
+  background-image: url("../../images/separator.png");
 }
 
 /* Buttons
