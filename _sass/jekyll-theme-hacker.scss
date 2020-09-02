@@ -17,8 +17,11 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  /*background: $body-background url("../images/bkg.png") 0 0;*/
-  background: $my-black;
+  background: $body-background;
+  background-image: url("../../images/background.png"), url("../../images/background.png");
+  background-repeat: repeat-y;
+  /*background-attachment: fixed;*/
+  background-position: left, right;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -108,7 +111,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Consolas, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -117,23 +120,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h1 {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #main_content h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 #main_content h3 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 #main_content h4 {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 #main_content h5 {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
@@ -201,12 +204,14 @@ hr {
   height: 0;
   border: 0;
   /*some fucker is overriding this color D:< */
-  border-bottom: 8px dashed #FFFFFF !important;
-  border-color: #FFFFFF !important;
+  border-bottom: 8px dashed #303436 !important;
+  border-color: #303436 !important;
 }
 
 /* Buttons
 */
+
+
 
 .btn {
   display: inline-block;
@@ -247,7 +252,7 @@ hr {
 */
 
 a {
-  color: #31e3ca;
+  color: #42e5ce;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   text-decoration: none;
 }
@@ -269,6 +274,11 @@ a {
 
 #a-title {
   text-decoration: none;
+}
+
+/*# removes that pesky github header*/
+header {
+  display: none;
 }
 /*
 div {

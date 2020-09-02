@@ -2,12 +2,16 @@
 layout: default
 
 ---
-# 🧪 CURRENT EXPERIMENTS 
+---
+<h1><a href="https://github.com/blackcodedmidi/blackcodedmidi"><img src="../images/github-icon.png"></a> BlackCodedMIDI</h1>
 
+### Experiments fusing Black MIDI and the live coding practice.
 
-We are developing custom tools for the generation, transformation, reproduction and visualization of dense MIDI files.
+---
 
-The development of this new software parallel to our own investigations, has lead us to some new techniques in the Black Midi movement!
+<!-- this was cute, but now creates too much noise at the top -->
+<!-- ## 🧪 CURRENT EXPERIMENTS  -->
+Developing custom tools for the generation, transformation, reproduction and visualization of dense MIDI files. The development of this new software parallel to our own investigations, has lead us to some new techniques in the Black Midi movement!
 
 We found that accelerating the tempo to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of notes generate a grey-scale palette in an otherwise black-and-white language:
 
@@ -58,7 +62,7 @@ pieces.
 ![galaxian graph](/images/graph-galaxian.png)
 
 --------------------
-# 🌐 HISTORICAL BACKGROUND
+## 🌐 HISTORICAL BACKGROUND
 
 There has been several artistic movements/phenomena in the recent past that
 approached art from a hacking perspective by pushing production tools'
@@ -94,7 +98,7 @@ and tools. We want to explore the image and sound relationship, focusing on
 each one.
 
 -----------------------
-# 💚 OUR INSPIRATIONS
+## 💚 OUR INSPIRATIONS
 
 - Conlon Nancarrow
 - Norman McLaren
