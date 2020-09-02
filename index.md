@@ -2,7 +2,7 @@
 layout: default
 
 ---
-# CURRENT EXPERIMENTS
+# 🧪 CURRENT EXPERIMENTS 
 
 
 We are developing a bunch of custom tools for the generation, transformation, reproduction and visualization of dense MIDI files.
@@ -11,7 +11,7 @@ The development of this new software parallel to our own investigations, has lea
 
 We found that accelerating the BPMs to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of the notes generate a grey-scale palette in an otherwise black-and-white language:
 
-<video width="800" height="600" controls>
+<video width="100%" controls>
   <source src="videos/chihuahua.mp4" type="video/mp4">
   <source src="videos/chihuahua.webm" type="video/webm">
 </video>
@@ -22,7 +22,7 @@ In the reverse processes, old movies now can be use as a source for a  musical p
 Also, we are currently experimenting with the simulation of the human voice through massive clusters of piano notes. This will permit us to have animation, music, AND voice acting. All being generated from an extreme use of a single MIDI file!
 
 
-<video width="800" height="600" controls>
+<video width="100%" controls>
   <source src="videos/boop.mp4" type="video/mp4">
   <source src="videos/boop.webm" type="video/webm">
 </video>
@@ -34,24 +34,31 @@ We expect to expand all this into a collaborative playground, combining it with 
 For now, from only a tiny formula, the results can be quite surprising both visual and musically:
 
 
-<video width="800" height="600" controls>
+<video width="100%" controls>
   <source src="videos/formula-galaxian.mp4" type="video/mp4">
   <source src="videos/formula-galaxian.webm" type="video/webm">
 </video>
 
-<video width="400" height="300" controls>
+<video width="49%" height="300" controls>
   <source src="videos/formula-rgb_of_death.mp4" type="video/mp4">
   <source src="videos/formula-rgb_of_death.webm" type="video/webm">
 </video>
 
-<video width="400" height="300" controls>
+<video width="49%" height="300" controls>
   <source src="videos/formula-dance.mp4" type="video.mp4">
   <source src="videos/formula-dance.webm" type="video/webm">
 </video>
 
+In this preliminary stage we also realized that some animation MIDI patterns,
+when observed as a whole, show up as beautiful sound waves. We might want to use those for further visual
+pieces.
+
+![chihuahua graph](/images/graph-chihuahua.png)
+
+![galaxian graph](/images/graph-galaxian.png)
 
 --------------------
-# HISTORICAL BACKGROUND
+# 🌐 HISTORICAL BACKGROUND
 
 There has been several artistic movements/phenomena in the recent past that
 approached art from a hacking perspective by pushing production tools'
@@ -87,12 +94,21 @@ and tools. We want to explore the image and sound relationship, focusing on
 each one.
 
 -----------------------
-# HEAVY INSPIRATIONS
+# 💚 OUR INSPIRATIONS
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/LFz2lCEkjFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Conlon Nancarrow
+- Norman McLaren
+- Orangepaprika 67
+- Ville-Matias Heikkilä
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/mAflS_s_aqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="49%" src="https://www.youtube.com/embed/LFz2lCEkjFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/muCPjK4nGY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="49%" src="https://www.youtube.com/embed/mAflS_s_aqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/aKMrBaXJvMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="49%" src="https://www.youtube.com/embed/muCPjK4nGY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="49%" src="https://www.youtube.com/embed/aKMrBaXJvMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="49%" src="https://www.youtube.com/embed/jiJR1ET715M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="49%" src="https://www.youtube.com/embed/KXjvYdttV10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
