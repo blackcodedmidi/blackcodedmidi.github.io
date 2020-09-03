@@ -17,9 +17,9 @@ layout: default
 
 We found that accelerating the tempo to an impossible speed for a physical device, the musical notation can create the illusion of an animated film, and by the stuttering of notes generate a grey-scale palette in an otherwise black-and-white language:
 
-<video width="100%" controls>
-  <source src="videos/chihuahua.mp4" type="video/mp4">
-  <source src="videos/chihuahua.webm" type="video/webm">
+<video width="100%" preload="metadata" controls>
+  <source src="videos/chihuahua.mp4#t=0.5" type="video/mp4">
+  <source src="videos/chihuahua.webm#t=0.5" type="video/webm">
 </video>
 
 
@@ -28,9 +28,9 @@ In the inverse process, old movie footage now can be use as source for musical p
 Also, we are currently experimenting with the simulation of the human voice through massive clusters of piano notes. This will permit us to have animation, music, AND voice acting. All being generated from an extreme use of a single MIDI file!
 
 
-<video width="100%" controls>
-  <source src="videos/boop.mp4" type="video/mp4">
-  <source src="videos/boop.webm" type="video/webm">
+<video width="100%" preload="metadata" controls>
+  <source src="videos/boop.mp4#t=0.5" type="video/mp4">
+  <source src="videos/boop.webm#t=0.5" type="video/webm">
 </video>
 
 
@@ -40,19 +40,19 @@ We expect to expand all this into a collaborative playground, combining it with 
 For now, with only a tiny formula, the results can be quite surprising both visual and musically:
 
 
-<video width="100%" controls>
-  <source src="videos/formula-galaxian.mp4" type="video/mp4">
-  <source src="videos/formula-galaxian.webm" type="video/webm">
+<video width="100%" preload="metadata" controls>
+  <source src="videos/formula-galaxian.mp4#t=0.5" type="video/mp4">
+  <source src="videos/formula-galaxian.webm#t=0.5" type="video/webm">
 </video>
 
-<video width="49%" height="300" controls>
-  <source src="videos/formula-rgb_of_death.mp4" type="video/mp4">
-  <source src="videos/formula-rgb_of_death.webm" type="video/webm">
+<video width="49%" height="300" preload="metadata" controls>
+  <source src="videos/formula-rgb_of_death.mp4#t=0.5" type="video/mp4">
+  <source src="videos/formula-rgb_of_death.webm#t=0.5" type="video/webm">
 </video>
 
-<video width="49%" height="300" controls>
-  <source src="videos/formula-dance.mp4" type="video.mp4">
-  <source src="videos/formula-dance.webm" type="video/webm">
+<video width="49%" height="300" preload="metadata" controls>
+  <source src="videos/formula-dance.mp4#t=0.5" type="video.mp4#t=0.5">
+  <source src="videos/formula-dance.webm#t=0.5" type="video/webm">
 </video>
 
 <p class="a-bit-of-air">
